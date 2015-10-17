@@ -1,0 +1,2 @@
+# educationportal
+Taking reference of SJBIT Students, we have created an Android Application through which they can login to the college managed SIMS portal, send a distress message to HOD / Principal, Check online results and report bugs to the developer. The app is also capable of receiving Push Notifications from the App Based Server through a Command Prompt Code. The app can store upto 5 push notifications.
